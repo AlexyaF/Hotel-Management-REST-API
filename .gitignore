@@ -1,0 +1,9 @@
+teste.py
+instance 
+sqlite
+__pycache__/
+*.pyc
+venv/
+.env
+instance/
+*.db
